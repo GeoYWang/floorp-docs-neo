@@ -1,1 +1,38 @@
+{
+  "Floorp Docs": {
+    "message": "Floorp 文档"
+  },
+  "Do you have any questions?": {
+    "message": "你有什么问题吗？"
+  },
+  "Get Started": {
+    "message": "开始使用"
+  },
+  "Floorp Website": {
+    "message": "Floorp 网站"
+  },
+  "Need Support?": {
+    "message": "需要支持？"
+  },
+  "Discord (Floorp Projects)": {
+    "message": "Discord（Floorp 项目）"
+  },
+  "Contact Us": {
+    "message": "联系我们"
+  },
+  "theme.ErrorPageContent.title": {
+    "message": "页面发生错误",
+    "description": "The title of the fallback page when the page crashed"
+  },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "回到顶部",
+    "description": "The ARIA label for the back to top button"
+  },
+  "theme.blog.archive.title": {
+    "message": "归档",
+    "description": "The page & hero title of the blog archive page"
+  },
+  "theme.blog.archive.description": {
+    "message": "归档",
+    "description": "The page & hero description of the blog archive page
 
