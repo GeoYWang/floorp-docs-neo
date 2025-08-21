@@ -1,1 +1,42 @@
-
+{
+  "version.label": {
+    "message": "Next",
+    "description": "当前版本的标签"
+  },
+  "sidebar.tutorialSidebar.category.Building": {
+    "message": "构建",
+    "description": "侧边栏 tutorialSidebar 中 Building 类别的标签"
+  },
+  "sidebar.tutorialSidebar.category.features": {
+    "message": "功能",
+    "description": "侧边栏 tutorialSidebar 中 Features 类别的标签"
+  },
+  "sidebar.tutorialSidebar.category.Issue Tracker": {
+    "message": "问题追踪",
+    "description": "侧边栏 tutorialSidebar 中 Issue Tracker 类别的标签"
+  },
+  "sidebar.tutorialSidebar.category.Other": {
+    "message": "其他",
+    "description": "侧边栏 tutorialSidebar 中 Other 类别的标签"
+  },
+  "sidebar.tutorialSidebar.category.Design.link.generated-index.description": {
+    "message": "本节专注于自定义你的 Floorp 设置",
+    "description": "侧边栏 tutorialSidebar 中 Design 类别生成索引页面的描述"
+  },
+  "sidebar.tutorialSidebar.category.Issue Tracker.link.generated-index.description": {
+    "message": "本节是 Floorp 的问题追踪系统",
+    "description": "侧边栏 tutorialSidebar 中 Issue Tracker 类别生成索引页面的描述"
+  },
+  "sidebar.tutorialSidebar.category.Building Floorp": {
+    "message": "构建 Floorp",
+    "description": "侧边栏 tutorialSidebar 中 Building Floorp 类别的标签"
+  },
+  "sidebar.tutorialSidebar.category.Building Floorp.link.generated-index.description": {
+    "message": "本节专注于从源代码编译 Floorp",
+    "description": "侧边栏 tutorialSidebar 中 Building Floorp 类别生成索引页面的描述"
+  },
+  "sidebar.tutorialSidebar.category.Other.link.generated-index.description": {
+    "message": "本节涵盖其他问题或技巧。",
+    "description": "侧边栏 tutorialSidebar 中 Other 类别生成索引页面的描述"
+  }
+}
